@@ -4,7 +4,7 @@ import {BrowserRouter,Route} from 'react-router-dom';
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
 
-
+//tetetetetetetetetete
 const Page1=()=>(
     <div>
         Page1 component!
@@ -13,7 +13,7 @@ const Page1=()=>(
 
 const Page2=()=>(
     <div>
-        Page2 component!
+        Page2 component!!!!
     </div>
 );
 
