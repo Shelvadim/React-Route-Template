@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import {BrowserRouter,Route} from 'react-router-dom';
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
-
+//git remote set-url origin https://github.com/Shelvadim/React-Route-Template.git
 
 const Page1=()=>(
     <div>
