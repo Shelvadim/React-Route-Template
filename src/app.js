@@ -4,10 +4,14 @@ import {BrowserRouter,Route} from 'react-router-dom';
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
 
-
+<<<<<<< HEAD
+//tetetetetetetetetete
+=======
+//tettytytyty
+>>>>>>> 2070f106bf2ff96eb3f1a3cd6767d0c5a7026583
 const Page1=()=>(
     <div>
-        Page1 component!
+        Page1 component1111
     </div>
 );
 
@@ -37,9 +41,8 @@ const routes=(
         <Route path="/page2" component={Page2}/>
         <Route path="/page3" component={Page3}/>
         <Route path="/page4" component={Page4}/>
-    </div>    
+    </div>
     </BrowserRouter>
 );
 
 ReactDOM.render(routes, document.getElementById('app'));
-
