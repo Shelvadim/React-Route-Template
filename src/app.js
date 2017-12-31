@@ -7,7 +7,7 @@ import './styles/styles.scss';
 
 const Page1=()=>(
     <div>
-        Page1 component1111
+        Page1 component1
     </div>
 );
 
