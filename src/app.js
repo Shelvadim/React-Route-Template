@@ -6,4 +6,5 @@ import './styles/styles.scss';
 //git remote set-url origin https://github.com/Shelvadim/React-Route-Template.git
 
 
+
 ReactDOM.render(<AppRouter />, document.getElementById('app'));
